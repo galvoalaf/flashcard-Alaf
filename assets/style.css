@@ -52,3 +52,7 @@ container{
     font-size: 1vw;
 }
 
+.cartao:hover .cartao__conteudo{
+    transform: rotate(180deg);
+    /*transformando a rotação no eixoY em 180graus*/
+}
