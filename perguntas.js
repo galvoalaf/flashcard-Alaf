@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'link da loja e do youtube',
     'Como fasso para acesar a loja portal wheeling?',
-    'Oi em ingles é HI (RAI)'
+    'é o acesar o link https://www.portalwheeling.com.br/'
 )
