@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'canal no youtube',
+    'qual conteuo temos no canal?',
+    'no canal temos o conteudo de wheeling e rl e tambem um pouco de umor'
 )
 
 criaCartao(
