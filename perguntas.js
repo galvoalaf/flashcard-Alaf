@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'informaçoẽs da loja',
+    'o que temos na loja do portal wheeling?',
+    'na loja tem muitas variedades de peças e quaros de bikes alem de prmoçoẽs'
 )
 
 criaCartao(
