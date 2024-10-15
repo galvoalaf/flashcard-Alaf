@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'portal wheeling',
+    'O que é o portal wheeling?',
+    'O portal wheeling é um canal no youtube e uma loja online e bikes proprias para o wheeling'
 )
 
 criaCartao(
