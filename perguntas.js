@@ -23,8 +23,8 @@ criaCartao(
 )
 criaCartao(
     'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?',
-    'é o acesar o link https://www.portalwheeling.com.br/'
+    'quais são as vantagens de ter uma bike do portal wheeling?',
+    'A vantagen desta bike é que você tera um melhor desempenho para o esporte wheeling'
 )
 criaCartao(
     'link da loja e do youtube',
