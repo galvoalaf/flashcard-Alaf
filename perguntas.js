@@ -28,6 +28,5 @@ criaCartao(
 )
 criaCartao(
     'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?',
-    <img src="bike.jpeg" alt="Descrição da imagem" class="cartao__imagem"></img>
+    'Como fasso para acesar a loja portal wheeling?',ok
 )
