@@ -28,5 +28,16 @@ criaCartao(
 )
 criaCartao(
     'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?',ok
+    'Como fasso para acesar a loja portal wheeling?'
+    'é o acesar o link https://www.portalwheeling.com.br/'
+)
+criaCartao(
+    'link da loja e do youtube',
+    'Como fasso para acesar a loja portal wheeling?',
+    'é o acesar o link https://www.portalwheeling.com.br/'
+)
+criaCartao(
+    'link da loja e do youtube',
+    'Como fasso para acesar a loja portal wheeling?',
+    'é o acesar o link https://www.portalwheeling.com.br/'
 )
