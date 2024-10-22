@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'informaçoẽs da loja',
     'o que temos na loja do portal wheeling?',
-    'na loja tem muitas variedades de peças e quaros de bikes alem de prmoçoẽs'
+    'na loja tem muitas variedades de peças e quaros de bikes alem de varias prmoçoẽs'
 )
 
 criaCartao(
@@ -27,17 +27,6 @@ criaCartao(
     'A vantagen desta bike é que você tera um melhor desempenho para o esporte wheeling'
 )
 criaCartao(
-    'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?'
+    ''
    
-)
-criaCartao(
-    'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?',
-    'é o acesar o link https://www.portalwheeling.com.br/'
-)
-criaCartao(
-    'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?',
-    'é o acesar o link https://www.portalwheeling.com.br/'
 )
