@@ -27,6 +27,6 @@ criaCartao(
     'A vantagen desta bike é que você tera um melhor desempenho para o esporte wheeling'
 )
 criaCartao(
-    ''
-   
+    'as quais bikes temos no portal'
+    'no portal temos três variedades de qudros'
 )
