@@ -1,7 +1,7 @@
 criaCartao(
     'portal wheeling',
-    'O que é o portal wheeling?',
-    'O portal wheeling é um canal no youtube e uma loja online e bikes proprias para o wheeling'
+    'oque é a norisk?',
+    'a norisk é uma marca de acessorios para moto que todo motodrak usa'
 )
 
 criaCartao(
