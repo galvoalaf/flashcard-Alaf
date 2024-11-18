@@ -1,29 +1,17 @@
 criaCartao(
-    'portal wheeling',
-    'oque é a norisk?',
-    'a norisk é uma marca de acessorios para moto que todo motodrak usa'
+    'alpinestars',
+    'oque é alpinestarsk?',
+    'a norisk é uma marca de acessorios para moto e roupas de academia'
 )
 
 criaCartao(
-    'informaçoẽs da loja',
-    'o que temos na loja do portal wheeling?',
-    'na loja tem muitas variedades de peças e quaros de bikes alem de varias prmoçoẽs'
+    'informaçoẽs da loja norisk',
+    'o que a norisk vende?',
+    'na loja norisk vende capacetes e capa de chuva para motoqueiros'
 )
 
 criaCartao(
-    'canal no youtube',
-    'qual conteuo temos no canal?',
-    'no canal temos o conteudo de wheeling e rl e tambem um pouco de umor'
+    'link da loja norisk',
+    'https://www.alpinestarsbr.com.br/listas/ofertas-alpinestars?gad_source=1&gclid=EAIaIQobChMI1qC1sIXmiQMVFlpIAB02MQWtEAAYASAAEgIj8fD_BwE',
+    ''
 )
-
-criaCartao(
-    'link da loja e do youtube',
-    'Como fasso para acesar a loja portal wheeling?',
-    'é o acesar o link https://www.portalwheeling.com.br/'
-)
-criaCartao(
-    'quais são as vantagens de ter uma bike do portal wheeling?',
-    'quais são as vantagens de ter uma bike do portal wheeling?',
-    'A vantagen desta bike é que você tera um melhor desempenho para o esporte wheeling'
-)
-c
